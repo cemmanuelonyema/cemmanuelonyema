@@ -63,13 +63,14 @@ i{  margin: 0 .6rem; }
 /*-------------------------------*/
 /*---- buttons----*/
 
-.btn:link, .btn:visited{
+.btn, .btn:link, .btn:visited{
     font-size: 1.5rem;
     display: inline-block;
     border: 1px solid var(--brand-yellow);
     padding: .7rem 2.5rem;
     border-radius: 5rem;
     font-weight: 700;
+    animation: slideInFromBottom 1.5s ease-in-out 1.4s backwards;
     
 }
 
@@ -83,7 +84,7 @@ i{  margin: 0 .6rem; }
 .btn-pri:hover, .btn:active{
     border: 1px solid var(--brand-yellow);
     background-color: transparent;
-    color: var(--brand-yellow);
+    color: var(--brand-yellow)
 }
 
 .btn-sec:link, .btn-sec:visited{
@@ -92,18 +93,19 @@ i{  margin: 0 .6rem; }
 }
 
 .btn-sec:hover, .btn-sec:active{
-    color: var(--brand-black);
+    color: var(--black);
     background-color: var(--brand-yellow);
 }
 
 /*---- form-button----*/
-.form .btn-send{
+ form .btn-send{
     color: var(--white);
     background-color: transparent;
     transition: all .4s;
     border: 1px solid var(--white);
+    width: auto;
 }
-.btn-send:hover{
+  form .btn-send:hover{
     color: var(--black);
     background-color: var(--white);
 }
@@ -136,6 +138,7 @@ header{
 header h1{
     font-size: 3.5rem;
     font-weight: 400;
+    animation: slideInFromTop 1.3s ease-in-out .9s  backwards;
 }
 
 .h1-span-1,.h1-span-2,.h1-span-3{
@@ -273,7 +276,7 @@ header h1{
 /*---- project ----*/
 /*--------------------------------------------------*/
 
-.grid-container, .values-box-container{
+.grid-container{
    display: grid;
   grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
   gap: 4rem;
@@ -282,7 +285,7 @@ header h1{
 .grid-box{
     background-color:  var(--white);
     font-size: 1.5rem;
-    padding: 2.5rem;
+    padding: 1rem;
     text-align: center;
     border-radius: 3px;
     transition: transform .4s;
@@ -303,7 +306,7 @@ header h1{
 .img-con{   width: 100%; }
 
 
-.grid-box div h3{   margin: .7rem 0;}
+.grid-box div h3, h4{   margin: .7rem 0;}
 .grid-box div span{    font-size: .9rem;    font-weight: 700; }
 .grid-box div span:not(:last-child){
     border-right: 1px solid #f2f2f2;
@@ -311,9 +314,28 @@ header h1{
 }
 
 .grid-box div i{    font-size: 1.3rem; }
-.grid-box a{   color: #000;   margin: 1rem; }
+.grid-box a{   color: var(--grey);   margin: 1rem; }
+.grid-box a:hover{   color: var(--black); }
 
 
+
+/*--------------------------------------------------*/
+/*---- ABout ----*/
+/*--------------------------------------------------*/
+
+ .values-box-container{
+    display: grid;    gap: 4rem;
+   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+ }
+
+ .about p{
+     font-size: 1.6rem;
+     margin-bottom: 3rem;
+ }
+
+ .grid-box ul li{
+     list-style: disc;
+ }
 
 /*--------------------------------------------------*/
 /*---- Contact ----*/
@@ -377,7 +399,7 @@ footer p:hover{  color: var(--white); }
     display: flex;
     justify-content: space-evenly;    
     flex-wrap: wrap;
-    height: 3rem;
+    height: 5rem;
     
     
 }
@@ -414,25 +436,38 @@ color: var(--grey);
 /*---- Animation ----*/
 /*--------------------------------------------------*/
 /*
-@keyframes texteffect {
-    0%{
-        width: 0;
-    }
-    50%{
-        width: 100%;
-    }
-    80%{
-        width: 100%;
 
 
-    }
-    100%{
-        width: 0;
+/* Animations */
 
+  
+  @keyframes slideInFromTop {
+    0% {
+      transform: translateY(-120%);
+      opacity: 0;
+    }
+  
+    100% {
+      transform: translateX(0);
+      opacity: 1;
 
     }
-   
-}*/
+  }
+  
+  @keyframes slideInFromBottom {
+    0% {
+      transform: translateY(150%);
+      opacity: 0;
+
+    }
+  
+    100% {
+      transform: translateX(0);
+      opacity: 1;
+
+    }
+  }
+  
 
 
 
