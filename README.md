@@ -18,13 +18,11 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-### Languages and Tools:
+### Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
@@ -39,18 +37,19 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕Design Blog Posts
+
+-[PlanFit Mobile App Design Case Study](https://cemmanuelonyema.medium.com/planfit-app-design-a-ui-ux-case-study-68f60ebb3999) -[What is Design Thinking](https://cemmanuelonyema.medium.com/design-thinking-6f7f7d9031cb)
+
+### 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Understanding Smart Contracts](https://medium.com/coinmonks/understanding-smart-contracts-definition-pros-cons-and-application-51171f4f322c)
+- [Understanding The Basics About Blockchain](https://medium.com/@cemmaonyema/on-blockchain-5e7d96c6dba1)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+<!-- ➡️ [more blog posts...](portfolio site) -->
 
 ---
 
@@ -74,9 +73,8 @@
 
 </details>
 
-[twitter]: https://twitter.com/ceonyema_
-[instagram]: https://instagram.com/ceonyema_
-[linkedin]: https://linkedin.com/in/emmanuel-c-onyema
+[twitter](https://twitter.com/ceonyema_)
+[instagram](https://instagram.com/ceonyema_)
+[linkedin](https://linkedin.com/in/emmanuel-c-onyema)
 
-[Medium]: https://linkedin.com/in/emmanuel-c-onyema //web3
-[Medium]: https://linkedin.com/in/emmanuel-c-onyema //web2
+[medium](https://medium.com/@cemmaonyema)
