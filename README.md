@@ -1,15 +1,15 @@
 Hi 👋 My name is Emmanuel C. Onyema
 ===================================
 
-Frontend Engineer
+Frontend Engineer and Data Analyst
 -----------------
 
-I'm a self taught frontend engineer with 2+ years experience in building beautiful, responsive, performant and user-friendly web applications, I have developed a strong foundation in HTML, CSS, JavaScript, Typescript, React, SCSS, TailwindCSS, CSS-IN JS, Framer motion, Redux, Context api and various front-end frameworks such as Next.js.
+I'm a self taught frontend engineer with 2+ years experience in building beautiful, responsive, performant and user-friendly web applications, I have developed a strong foundation in HTML, CSS, JavaScript, Typescript, React, SCSS, TailwindCSS, CSS-IN JS, Framer motion, Redux, Context api and various front-end frameworks such as Next.js. I have also developed a strong foundation in Excel, SQl, POWERBI, TABLEAU for data analysis
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [cemmaonyema@gmail.com](mailto:cemmaonyema@gmail.com)
-* 🧠  I'm learning To be World Class Software Engineer
-* 🤝  I'm open to collaborating on Open Source Projects, Full Time Remote Roles
+* 🧠  I'm learning To be World Class Software Engineer and Data Analyst
+* 🤝  I'm open to collaborating on Open Source Projects, and Full Time Remote Roles
 
 ### Skills
 
