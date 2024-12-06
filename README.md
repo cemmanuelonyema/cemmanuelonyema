@@ -1,4 +1,4 @@
-Hi 👋 My name is Emmanuel C. Onyema
+Hi 👋 My name is Chikwesiri E. Onyema
 ===================================
 
 Frontend Engineer and Data Analyst
